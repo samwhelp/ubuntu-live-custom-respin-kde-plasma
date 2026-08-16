@@ -39,12 +39,3 @@ vim
 ##
 
 neovim
-
-
-
-
-##
-## ## Package / Sublime Text
-##
-
-sublime-text
