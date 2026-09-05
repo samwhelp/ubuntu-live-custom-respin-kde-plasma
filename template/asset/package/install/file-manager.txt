@@ -11,7 +11,7 @@
 ## ## Package / File Manager / pcmanfm-qt
 ##
 
-#pcmanfm-qt
+pcmanfm-qt
 
 
 

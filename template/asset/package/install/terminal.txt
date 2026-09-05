@@ -36,7 +36,7 @@ xfce4-terminal
 ## ## Package / Terminal / qterminal
 ##
 
-#qterminal
+qterminal
 
 
 
@@ -64,6 +64,15 @@ xfce4-terminal
 ##
 
 #gnome-terminal
+
+
+
+
+##
+## ## Package / Terminal / ptyxis
+##
+
+#ptyxis
 
 
 
